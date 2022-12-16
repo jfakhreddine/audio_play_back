@@ -1,9 +1,9 @@
 /**
   ******************************************************************************
   * @file    Audio_playback_and_record/src/main.c 
-  * @author  jarray fakhreddine
+  * @author  jarray fakhreddine & Hajlaoui fares
   * @version V1.1.0
-  * @date    15-Décembre-2022
+  * @date    15-DÃ©cembre-2022
   * @brief   Main program body
   ******************************************************************************
   */ 
